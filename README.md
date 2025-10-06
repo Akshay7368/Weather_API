@@ -27,8 +27,8 @@ This project is an **interactive weather dashboard** built in **Power BI**, powe
 
 ## 📂 Project Files
 
-* `Weather_Dashboard.pbix` → Power BI dashboard file.
-* `Screenshots/` → Sample screenshots of the dashboard.
+* `Weather.pbix` → Power BI dashboard file.
+* `screenshots/` → Sample screenshots of the dashboard.
 * `README.md` → Project documentation (this file).
 
 ---
@@ -57,7 +57,7 @@ This project is an **interactive weather dashboard** built in **Power BI**, powe
 *(Add screenshots of your dashboard here)*
 Example:
 
-![Weather Dashboard Screenshot](Screenshots/weather_dashboard.png)
+![Weather Dashboard Screenshot](screenshots/image.png)
 
 ---
 
@@ -72,6 +72,6 @@ Example:
 ## 👤 Author
 
 **Akshay Kumar S**
-📧 [Your Email] | 🌐 [Portfolio/GitHub Link] | 💼 [LinkedIn Profile]
+📧 [akshaysubramanian064@gmail.com] | 💼 [www.linkedin.com/in/akshay-kumar-212002ak]
 
 ---
